@@ -1,2 +1,6 @@
+# sugar
 sugar.log
+validate_errors.json
+
+# secret
 keys/*
