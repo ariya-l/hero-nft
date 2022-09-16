@@ -18,7 +18,7 @@
   "uploadMethod": "bundlr",
   "retainAuthority": true,
   "isMutable": true,
-  "symbol": "",
+  "symbol": "HERO",
   "sellerFeeBasisPoints": 0,
   "awsConfig": null,
   "nftStorageAuthToken": null,
