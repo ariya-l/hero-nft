@@ -1,12 +1,12 @@
 {
   "name": "The HERO #2",
   "symbol": "HERO",
-  "description": "Collection of 10 numbers on the blockchain. This is the number 2/10.",
+  "description": "NFT for the HERO",
   "image": "1.png",
   "attributes": [
     {
-      "trait_type": "Number",
-      "value": "1"
+      "trait_type": "Ranking",
+      "value": "Gold"
     }
   ],
   "properties": {
